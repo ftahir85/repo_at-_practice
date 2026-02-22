@@ -1,0 +1,3 @@
+# abc.txt
+new_directory/*
+!new_directory/.gitkeep
