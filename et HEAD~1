@@ -1,0 +1,20 @@
+[33mcommit e37b0ede763b5749529a058fd6769507fb5d344f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev_2[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: d08d0bc 028583f
+Author: ftahir26 <farehatahir018@gmail.com>
+Date:   Sun Feb 22 09:53:21 2026 +0500
+
+    Merge pull request #1 from ftahir85/dev
+    
+    Added .gitignore,css,txt files
+
+[33mcommit 028583f437950f21a14ccf042b3d6d315eaa0170[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: ftahir26 <farehatahir018@gmail.com>
+Date:   Sun Feb 22 09:47:59 2026 +0500
+
+    Added .gitignore,css,txt files
+
+[33mcommit d08d0bc34be845e0d58080a69eed37e75c5c287e[m
+Author: ftahir26 <farehatahir018@gmail.com>
+Date:   Sun Feb 22 09:29:32 2026 +0500
+
+    Initial commit
